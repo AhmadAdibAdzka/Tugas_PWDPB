@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+    <link rel="stylesheet" href="includes/style.css">
+    <!-- todo: vfile hidden, vpassword, vcheck box, vradio button, vreset, vkapan tombol button digunakan, vselect, vtextarea -->
+</head>
+<body>
+    <h2>
+        <marquee direction="right" behavior="alternate" width="50%">
+            Demo membuat kontrol TEXT
+        </marquee>
+    </h2>
+
+    <form>
+        <fieldset>
+            <legend><p class="or">Formulir Kontrol TEXT</p></legend>
+            <p class="g">hidden</p>
+            <input type="hidden" name="id" value="12345">
+
+            <p class="g">Username:</p>
+            <input type="text" name="username" size="40" style="border-radius: 4px;">
+
+            <p class="g">Password:</p>
+            <input type="password" name="password" size="40">
+
+            <p class="g">jenis Kelamin</p>
+                <input type="radio" name="jenkel" id="laki-laki" value="laki-laki">
+                <label for="laki-laki">laki-laki</label> <br>
+
+                <input type="radio" name="jenkel" id="perempuan" value="perempuan">
+                <label for="perempuan">Perempuan</label>
+
+            <p class="g">Alamat:</p>
+            <textarea type="text" name="alamat" rows="5" cols="30" style=" border-radius: 4px;"></textarea>
+
+            <p class="g">Hobi</p>
+                <input type="checkbox" name="hobi" id="hobi">
+                <label for="hobi">Membaca</label>
+                
+                <input type="checkbox" name="hobi" id="hobi2">
+                <label for="hobi2">Main Game</label>
+            
+            <p class="g">Jurusan:</p>
+            <select name="jurusan" id="jurusan">
+                <option value="PPLG">PPLG</option>
+                <option value="TJKT">TJKT</option>
+                <option value="MPLB">MPLB</option>
+                <option value="AKUTANSI">Akutansi</option>
+            </select>
+
+            <p class="g">Kelas:</p>
+            <select name="kelas" id="kelas">
+                <option value="X">X</option>
+                <option value="XI">XI</option>
+                <option value="XII">XII</option>
+            </select>
+            <p class="g">No. Telepon:</p>
+            <input type="text" name="telepon" size="40" style="border-radius: 4px;">
+
+            <p><input type="submit" value="Kirim"><button type="reset">Batal</button></p>
+        </fieldset>
+    </form>
+
+    <div class="content">
+        <p>Gambar: <br> 
+        <img src="image/images.jpeg" alt="Gambar">
+        </p>
+        <p>Video: <br>
+    </div>
+    
+</body>
+</html>
