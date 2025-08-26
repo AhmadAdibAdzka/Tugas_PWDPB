@@ -1,0 +1,38 @@
+Saya Ahmad Adib Adzka, seorang pelajar SMK yang berjurusan Software Enginering. 
+Saya masih dalam tahap pembelajaran berbagai bahasa pemrograman, Seperti Python, PHP, 
+Java, JavaScript, HTML dan CSS. Selain itu saya juga mempelajari Desain Grafis dan 
+berbagai bidang lainya.
+
+Saya adalah seorang pelajar yang bertujuan menjadi ahli di bidang Web Dev fullstack. saya berharap
+bisa mendapatkan pekerjaan yang memiliki gaji kisaran 15jt hingga 25jt. Selain itu, Saya juga memiliki
+minat di bidang AI/ML. Saya terkadang mempelajarinya disela-sela waktu. Saya juga hobi membaca terutama
+novel. Saya memiliki kepercayaan diri dalam kemapuan menyerap teori dan logika. Dalam belajar, saya juga 
+tidak keras kepala, dan mau mendengarkan arahan dari yang lebih ahli.
+
+Saya sedang mengembangkan skill dibidang Web Developer, Software Developer, AI/ML Enginering, Desain Grafis.
+softskill yang masih saya kembangkan berupa manajemen waktu, teamwork, problem solving dan komunikasi. Saya pernah
+membuat berbagai proyek pribadi, seperti web Profil sederhana, AI Logika Sederhana dan Website Data Pustaka dengan Database
+
+============================================================================================================================
+
+                    <p>Halo, saya <b>Ahmad Adib Adzka</b>, seorang pelajar <b>SMK jurusan Rekayasa Perangkat Lunak (Software Engineering)</b> yang bersemangat. 
+                    Saat ini saya fokus mengembangkan keahlian dalam <b>pengembangan web full-stack.</b> Saya dalam proses menguasai beberapa bahasa pemrograman 
+                    seperti <b>Python, PHP, Java, JavaScript, HTML, dan CSS.</b> Selain itu, saya juga memiliki minat di bidang <b>Desain Grafis</b> dan <b>AI/ML</b>.</p>
+
+                    <p>Tujuan jangka panjang saya adalah menjadi <b>Web Developer Full-stack profesional</b> dan berkontribusi pada proyek-proyek inovatif. 
+                    Saya percaya bahwa kemampuan saya dalam menyerap teori dan logika, dikombinasikan dengan kemauan untuk terus belajar dari yang 
+                    lebih ahli, adalah aset utama saya. Beberapa soft skill yang sedang saya kembangkan meliputi <b>manajemen waktu, kerja tim, 
+                    pemecahan masalah (problem-solving), dan komunikasi efektif.</b></p>
+
+                    <p>Sebagai bagian dari proses belajar, saya secara aktif mengerjakan berbagai <b>proyek pribadi</b> untuk mengaplikasikan ilmu yang 
+                    saya dapatkan. Beberapa di antaranya termasuk:</p>
+
+                    <ul>
+                        <li>Website Profil Pribadi: Sebuah situs web sederhana yang menampilkan identitas dan proyek-proyek saya.</li>
+
+                        <li>AI Logika Sederhana: Proyek dasar yang mengeksplorasi konsep-konsep kecerdasan buatan.</li>
+
+                        <li>Website Data Perpustakaan: Sebuah situs web yang terintegrasi dengan database untuk mengelola data buku dan peminjam.</li>
+                    </ul>
+
+                    Melalui proyek-proyek ini, saya terus mengasah kemampuan teknis dan siap menghadapi tantangan di industri.
